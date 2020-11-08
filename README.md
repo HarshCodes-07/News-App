@@ -1,6 +1,4 @@
 # News App
 Fetch news from API and list them inside a RecyclerView.
 
-</br>
-</br>
-[![Watch this video](https://img.youtube.com/vi/ttIfesjYDQQ/0.jpg)] (https://www.youtube.com/watch?v=ttIfesjYDQQ)
+<img width="182" alt="Capture" src="https://user-images.githubusercontent.com/56679221/98481526-ec148e00-2220-11eb-91d2-21ec3fd24c45.PNG">
